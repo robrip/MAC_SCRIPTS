@@ -105,8 +105,8 @@ Bare IPs are automatically converted to `/32`.
 ### **Run the Analyzer**
 
 ```bash
-chmod +x ip_cleaner_v4_terminal_only_editing.sh
-./ip_cleaner_v4_terminal_only_editing.sh my_ips.txt
+chmod +x ip_cleaner_v4.
+./ip_cleaner_v4.my_ips.txt
 ```
 
 If no file is provided, the script exits with:
