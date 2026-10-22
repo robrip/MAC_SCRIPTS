@@ -1,4 +1,4 @@
-# 🧠 **ROBRip CIDR Analyzer v3**  
+# 🧠 **ROBRip CIDR Analyzer v4**  
 
 ### **Terminal‑Only CIDR Normalizer, Sorter, Risk Analyzer & Private‑Range Sentinel**
 
